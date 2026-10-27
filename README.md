@@ -4,12 +4,12 @@ Estudiante de Ingeniería de Software enfocado en desarrollo backend, arquitectu
 
 ---
 
-### 🚀 Sobre mí
+###  Sobre mí
 
-- 🔭 Actualmente trabajando en proyectos universitarios y desarrollo full stack.
-- 🌱 Aprendiendo y profundizando en arquitecturas cloud, microservicios y redes.
-- ⚡ Intereses: Linux, automatización, estructuras de datos y rendimiento de software.
-- 📫 Puedes escribirme a: **mati.xavier1234@gmail.com**
+-  Actualmente trabajando en proyectos universitarios y desarrollo full stack.
+-  Aprendiendo y profundizando en arquitecturas cloud, microservicios y redes.
+-  Intereses: Linux, automatización, estructuras de datos y rendimiento de software.
+-  Puedes escribirme a: **mati.xavier1234@gmail.com**
 
 ---
 
